@@ -4,7 +4,13 @@
 	<FieldGroupExtensions />
 	<FieldGroups />
 	<FieldModifications />
-	<Fields />
+	<Fields>
+		<AxTableField xmlns=""
+			i:type="AxTableFieldString">
+			<Name>FRYCustSpecialType</Name>
+			<ExtendedDataType>FRYCustSpecialType</ExtendedDataType>
+		</AxTableField>
+	</Fields>
 	<FullTextIndexes />
 	<Indexes />
 	<Mappings />
